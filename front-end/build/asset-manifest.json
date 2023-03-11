@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kavinprakash091/amazona/static/css/main.48004167.css",
+    "main.js": "/kavinprakash091/amazona/static/js/main.5b8e0259.js",
+    "static/js/787.22edae46.chunk.js": "/kavinprakash091/amazona/static/js/787.22edae46.chunk.js",
+    "index.html": "/kavinprakash091/amazona/index.html",
+    "main.48004167.css.map": "/kavinprakash091/amazona/static/css/main.48004167.css.map",
+    "main.5b8e0259.js.map": "/kavinprakash091/amazona/static/js/main.5b8e0259.js.map",
+    "787.22edae46.chunk.js.map": "/kavinprakash091/amazona/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48004167.css",
+    "static/js/main.5b8e0259.js"
+  ]
+}
